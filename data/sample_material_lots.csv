@@ -1,0 +1,6 @@
+material_code,material_name,supplier_name,supplier_lot_number,received_date,disposition_status
+RM-001,Cell Culture Buffer A,NovaChem Solutions,NC-BA-1001,2025-01-05,Released
+RM-001,Cell Culture Buffer A,NovaChem Solutions,NC-BA-1002,2025-02-14,Released
+RM-002,Single-Use Polymer Film,Precision Polymers,PP-FILM-2201,2025-01-20,Released
+RM-002,Single-Use Polymer Film,Precision Polymers,PP-FILM-2202,2025-03-12,Quarantined
+RM-004,Cryopreservation Medium,BioSource Materials,BSM-CRYO-902,2025-04-03,Rejected
